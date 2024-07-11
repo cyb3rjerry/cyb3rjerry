@@ -1,4 +1,1 @@
-Hey
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/cyb3rjerry/cyb3rjerry/blob/main/assets/output-onlinegiftools.gif?raw=true');]{x0000}$}
+[https://c-b.io/](https://c-b.io/)
